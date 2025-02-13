@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy Iván Pineda! 👾
 
-<!--
-**DevIP98/DevIP98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Bienvenido/a a mi perfil de GitHub. Soy un apasionado de la tecnología y el aprendizaje continuo. Actualmente, trabajo y estudio Ingeniería de Sistemas. Cuento con experiencia en desarrollo de software, administración de servidores, bases de datos y soluciones tecnológicas innovadoras.
 
-Here are some ideas to get you started:
+## 🔮 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:** � PHP, 🟨 JavaScript, 🟪 C#, 🐍 Python
+- **Frameworks y Librerías:** 🐘 Laravel, 🐍 Django, 🎀 Bootstrap, � Tailwind
+- **Bases de Datos:** 🐬 MySQL, 🐘 PostgreSQL, 🟦 SQL Server, 🍃 MongoDB
+- **DevOps y Cloud:** 🐳 Docker, ☁️ AWS
+- **Control de Versiones:** 🐙 Git, 🐱 GitHub
+- **Otros:** 🌐 API REST, 🐧 Linux
+
+## 💪 Contacto
+
+- **Email:** 📧 [ip.private98@gmail.com](mailto:ip.private98@gmail.com)
+- **LinkedIn:** 🔗 [linkedin.com/in/dev-ip](#)
+
+---
+
+> _"El aprendizaje continuo es la clave del éxito en la tecnología."_ 🕹️
