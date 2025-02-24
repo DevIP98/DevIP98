@@ -1,4 +1,4 @@
-_# ¡Hola, soy Iván Pineda! 👾
+# ¡Hola, soy Iván Pineda! 👾
 
 🎮 Bienvenido/a a mi perfil de GitHub. Soy un apasionado de la tecnología y el aprendizaje continuo. Actualmente, trabajo y estudio Ingeniería de Sistemas. Cuento con experiencia en desarrollo de software, administración de servidores, bases de datos y soluciones tecnológicas innovadoras.
 
@@ -19,4 +19,3 @@ _# ¡Hola, soy Iván Pineda! 👾
 ---
 
 > _"El aprendizaje continuo es la clave del éxito en la tecnología."_ 🕹️
-_
